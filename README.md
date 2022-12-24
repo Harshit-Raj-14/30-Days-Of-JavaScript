@@ -1,4 +1,4 @@
-Code of Streak - JavaScript 30 days challenge
+<h1>Code of Streak - JavaScript 30 days challenge</h1>
 
 Name : Harshit Raj
 
