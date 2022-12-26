@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{      
+    --base: #ffc600;    /*declaring the default values of variables in root selector*/
+    --spacing: 2px;
+    --blur: 0px;
+}
+
+img{
+    padding: var(--spacing);    /*doing this means that the value of these properties are define din variable in CSS*/
+    background: var(--base);
+    filter: blur(var(--blur));
+    width:650px;
+}
+
+.h1{
+    color: var(--base);
+}
+
+body{
+    text-align: center;
+    background: #193549;
+    color: white;
+    font-family: 'hevetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.controls{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+
+input {
+    width: 100px;
+  }
+
