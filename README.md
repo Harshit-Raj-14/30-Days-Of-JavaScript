@@ -20,3 +20,5 @@ Day 4 : Alarm Clock - https://harshit-raj-14.github.io/World-Clock-Website/
 Day 5 : Photo Frame Editor - https://harshit-raj-14.github.io/Photo-Frame-Editor/
 
 Day 6 - Superstar Gallery - https://harshit-raj-14.github.io/Superstar-Gallery/
+
+Day 7 - Color Canvas - https://harshit-raj-14.github.io/Color-Canvas/
