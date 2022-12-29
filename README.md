@@ -23,4 +23,4 @@ Day 6 - Superstar Gallery - https://harshit-raj-14.github.io/Superstar-Gallery/
 
 Day 7 - Color Canvas - https://harshit-raj-14.github.io/Color-Canvas/
 
-Day 8 - Weather Report Website - https://harshit-raj-14.github.io/Weather-Report-Website/
+Day 8 - JavaScript Jump Game - https://harshit-raj-14.github.io/JavaScript-Jump-Game/
