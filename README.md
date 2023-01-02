@@ -30,3 +30,5 @@ Day 9 - Text Editor Website - https://harshit-raj-14.github.io/Text-Editor-Websi
 Day 10 - Calculator Web-App - https://harshit-raj-14.github.io/Calculator-Web-App/
 
 Day 11 - Movies Website - https://harshit-raj-14.github.io/Gmovies/
+
+Day 12 - Konami Code - https://harshit-raj-14.github.io/Konami-Code/
