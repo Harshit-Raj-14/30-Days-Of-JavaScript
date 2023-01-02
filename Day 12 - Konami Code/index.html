@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Key Detection - keys pressed in certain sequence - Konami Code">
+    <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+
+    <title>Konami Code</title>
+
+    <style>
+        h1{
+            margin: 5vh 40vh;
+            text-align: center;
+            font-size: 3.5rem;
+        }
+
+        body{
+            background-color: #FFB6C1;
+            font-family: cursive;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1>PRESS THE SECRET CODE TO UNLEASH THE MAGIC</h1>
+
+
+    <script>
+        const pressed = [];
+        const secretCode = 'ArrowUpArrowUpArrowDownArrowDownArrowRightArrowLeftArrowRightArrowLeftba'
+        window.addEventListener('keyup', (e) => {
+            console.log(e.key);
+            pressed.push(e.key);
+            pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+            if (pressed.join('').includes(secretCode)) {
+                console.log('DING DING');
+                cornify_add();
+            }
+            console.log(pressed);
+        });
+    </script>
+
+</body>
+</html>
