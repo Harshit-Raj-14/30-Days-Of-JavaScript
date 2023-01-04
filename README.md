@@ -34,3 +34,5 @@ Day 11 - Movies Website - https://harshit-raj-14.github.io/Gmovies/
 Day 12 - Konami Code - https://harshit-raj-14.github.io/Konami-Code/
 
 Day 13 - My City Website - https://harshit-raj-14.github.io/My-City-List-Website/
+
+Day 14 - Password Generator - https://harshit-raj-14.github.io/Password-Generator-JS/
