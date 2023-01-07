@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    line-height: 2rem;
+}
+
+.navbar {
+    border: 2px solid red;
+    background-color: aqua;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    /*So that it always remains top and top margin set to 0*/
+    top: 0;
+    z-index: 1;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bodypart {
+    border: 1px solid black;
+    height: 435vh;
+    align-items: justify;
+    width: 50%;
+    position: relative;
+    /*postion is set relative so that we can define left and right space */
+    margin-top: 100px;
+    left: 20%;
+    right: 30%;
+    padding: 40px 50px;
+    clear: right;
+}
+
+.slider {
+    width: 200px;
+    height: 800px;
+    position: fixed;
+    top: 10vh;
+    background-color: green;
+    border: 1px solid red;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.aside-container {
+    width: 100%;
+    height: 300vh;
+    position: absolute;
+    top: 0;
+}
+
+.aside-Ad {
+    /*Aside-ad is inside aside-container which is a big box and ad sticks to it till the bottom height mentioned and then scrolls back up when it goes beyond the screen.*/
+    width: 300px;
+    background-color: plum;
+    height: 180vh;
+    position: sticky;
+    top: 80px;
+    float: right;
+}
+
+.float-button {
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    right: 80px;
+    bottom: 40px;
+    border-radius: 40px;
+    background-color: rgb(216, 35, 35);
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
