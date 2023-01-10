@@ -10,7 +10,7 @@ Please add your own API key generated from Rapid API key in the script.js file.
 		'X-RapidAPI-Key': privateKey,
 ```
 
-Replace the variable privateKey wiht your own.
+Replace the variable **privateKey** with your own.
 
 You can generate your own private key on RapidAPI - weather-by-api-ninjas.p.rapidapi.com
 
