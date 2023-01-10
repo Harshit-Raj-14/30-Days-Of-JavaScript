@@ -47,3 +47,5 @@ Day 18 - Magical Hoverboard - https://harshit-raj-14.github.io/Magical-Hoverboar
 
 Day 19 - Digital Clock  - https://harshit-raj-14.github.io/Digital-Clock/
 
+Day 20 - Weather Report Website - https://github.com/Harshit-Raj-14/Weather-Report-Website
+
