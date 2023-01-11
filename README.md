@@ -49,3 +49,5 @@ Day 19 - Digital Clock  - https://harshit-raj-14.github.io/Digital-Clock/
 
 Day 20 - Weather Report Website - https://github.com/Harshit-Raj-14/Weather-Report-Website
 
+Day 21 - Visit Counter - https://harshit-raj-14.github.io/Visit-Counter/
+
