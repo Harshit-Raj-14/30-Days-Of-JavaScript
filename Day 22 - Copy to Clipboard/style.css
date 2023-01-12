@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arvo', serif;
+  background: #111111;
+  color: #fff;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 50vh;
+}
+
+.heading{
+    font-size: 3rem;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+input{
+    padding: 10px;
+    border: none;
+    font-size: 18px;
+    color: #555;
+    outline: none;
+    width: 100%;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #676771;
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+    cursor: pointer;
+}
+
+button:active{
+    background: #3a3939;
+}
+
+#pic{
+    width: 25px;
+}
+
+/* This project is built by Harshit Raj.
+This projects belongs to MedusaVerse.
+© Medusaverse */
