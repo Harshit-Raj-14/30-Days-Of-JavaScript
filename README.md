@@ -51,3 +51,5 @@ Day 20 - Weather Report Website - https://github.com/Harshit-Raj-14/Weather-Repo
 
 Day 21 - Visit Counter - https://harshit-raj-14.github.io/Visit-Counter/
 
+Day 22 - Copy to Clipboard - https://harshit-raj-14.github.io/Copy-to-Clipboard-using-Javascript/
+
