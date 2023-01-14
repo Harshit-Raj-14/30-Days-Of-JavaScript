@@ -55,3 +55,4 @@ Day 22 - Copy to Clipboard - https://harshit-raj-14.github.io/Copy-to-Clipboard-
 
 Day 23 - Live Compass - https://harshit-raj-14.github.io/Live-Compass/
 
+Day 24 - Infinite Scroll - https://harshit-raj-14.github.io/Infinite-Scroll/
