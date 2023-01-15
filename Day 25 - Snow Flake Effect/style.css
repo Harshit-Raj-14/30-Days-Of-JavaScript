@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background: linear-gradient(#12a7f9, #008aef); */
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.heading{
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+}
+
+h2{
+    font-size: 1.5rem;
+    text-align: center;
+    color: #fff;
+    margin-top: 15px;
+
+}
+
+
+.snowflake{
+    /* height: 200px;
+    width: 200px; */
+    position: absolute;
+    background-image: url("snowflake.png");
+    background-size: cover;
+    border-radius: 50px;
+    animation: fall 0.5s linear infinite; 
+}
+
+@keyframes fall{
+    0%{
+        transform: translate(50%, 50%);
+        opacity: 1;
+    }
+    100%{
+        transform: translate(50%, 100%);
+        opacity: 0;
+    }
+}
+
+
+
+footer p{
+    color: white;
+    text-align: center;
+    font-size: 2px;
+    position: absolute;
+    bottom: 0;
+  }
+
+  footer a:visited {
+    color: inherit;
+  }
+
+
+/* This project is built by Harshit Raj.
+This projects belongs to MedusaVerse.
+© Medusaverse */
