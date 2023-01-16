@@ -6,6 +6,7 @@ Roll No: 21BCG10006
 
 Start Date : 22.12.2022
 
+
 <hr>
 
 
@@ -58,3 +59,5 @@ Day 23 - Live Compass - https://harshit-raj-14.github.io/Live-Compass/
 Day 24 - Infinite Scroll - https://harshit-raj-14.github.io/Infinite-Scroll/
 
 Day 25 - Snow Flake Effect - https://harshit-raj-14.github.io/Snowflake-Effect/
+
+Day 26 - Flashlight Effect - https://harshit-raj-14.github.io/Flashlight-Effect/
