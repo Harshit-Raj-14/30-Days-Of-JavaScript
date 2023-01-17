@@ -61,3 +61,5 @@ Day 24 - Infinite Scroll - https://harshit-raj-14.github.io/Infinite-Scroll/
 Day 25 - Snow Flake Effect - https://harshit-raj-14.github.io/Snowflake-Effect/
 
 Day 26 - Flashlight Effect - https://harshit-raj-14.github.io/Flashlight-Effect/
+
+Day 27 - Video Speed Controller - https://harshit-raj-14.github.io/Video-Speed-Controller/
