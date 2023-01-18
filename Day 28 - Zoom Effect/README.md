@@ -1,6 +1,6 @@
 # Zoom-Effect
 
-**link** - 
+**link** - https://harshit-raj-14.github.io/Zoom-Effect/
 
 # Description
 Zoom effect to an element using javascript
