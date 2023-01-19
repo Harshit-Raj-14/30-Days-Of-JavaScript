@@ -1,0 +1,81 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+body {
+  font-family: 'Arvo', serif;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #111111;
+    color: #fff;
+}
+
+.wrapper {
+    position: absolute;
+    width: 450px;
+    padding: 30px 30px 40px;
+    background: #fff;
+    color: #000;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.wrapper.active {
+    cursor: move;
+    user-select: none;
+}
+
+.heading {
+    padding-bottom: 20px;
+    font-size: 2rem;
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.icon,
+p {
+    padding-top: 20px;
+}
+
+.icon i {
+    width: 95px;
+    height: 95px;
+    border: 5px solid #2e4edb;
+    border-radius: 50%;
+    font-size: 60px;
+    line-height: 1.5;
+    color: #2e4edb;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+}
+
+
+footer p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    bottom: 0;
+    left: 25px;
+}
+
+footer a:visited {
+    color: inherit;
+}
+
+
+/* This project is built by Harshit Raj.
+This projects belongs to MedusaVerse.
+© Medusaverse */
