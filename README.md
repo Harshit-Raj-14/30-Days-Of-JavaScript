@@ -65,3 +65,5 @@ Day 26 - Flashlight Effect - https://harshit-raj-14.github.io/Flashlight-Effect/
 Day 27 - Video Speed Controller - https://harshit-raj-14.github.io/Video-Speed-Controller/
 
 Day 28 - Zoom Effect - https://harshit-raj-14.github.io/Zoom-Effect/
+
+Day 29 - Draggable Element - https://harshit-raj-14.github.io/Draggable-Element/
