@@ -67,3 +67,5 @@ Day 27 - Video Speed Controller - https://harshit-raj-14.github.io/Video-Speed-C
 Day 28 - Zoom Effect - https://harshit-raj-14.github.io/Zoom-Effect/
 
 Day 29 - Draggable Element - https://harshit-raj-14.github.io/Draggable-Element/
+
+Day 30 - Auto Type Effect - https://harshit-raj-14.github.io/Auto-Type-using-Javascript/
